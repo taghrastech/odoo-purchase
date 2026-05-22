@@ -1,4 +1,4 @@
-# TaghrasTech — Purchase Modules
+# Odoo Purchase Modules
 
 Open-source Odoo modules developed by **[TaghrasTech](https://github.com/taghrastech)**.
 
@@ -42,5 +42,3 @@ git clone -b 18.0 https://github.com/taghrastech/odoo-purchase.git
 Then add the cloned folder to your `addons_path` in `odoo.conf` and install the module from the **Apps** menu.
 
 ---
-
-Developed by **[TaghrasTech](https://github.com/taghrastech)**
